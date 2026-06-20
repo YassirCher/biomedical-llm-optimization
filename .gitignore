@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+results_qwen_pubmed_advanced/
+results_qwen_pubmed_unsloth/
+checkpoints_qwen_pubmed_advanced/
+checkpoints_qwen_pubmed_unsloth/
+__pycache__/
+*.pyc
